@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ecadf32.css",
-    "main.js": "/static/js/main.958e27f8.js",
-    "static/js/787.bc7c4b98.chunk.js": "/static/js/787.bc7c4b98.chunk.js",
-    "static/media/webessembly_example_bg.wasm": "/static/media/webessembly_example_bg.f777cdda3835f85fa4fe.wasm",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.2ecadf32.css.map": "/static/css/main.2ecadf32.css.map",
-    "main.958e27f8.js.map": "/static/js/main.958e27f8.js.map",
-    "787.bc7c4b98.chunk.js.map": "/static/js/787.bc7c4b98.chunk.js.map"
+    "main.css": "/WebAssembly-Web/static/css/main.2ecadf32.css",
+    "main.js": "/WebAssembly-Web/static/js/main.02cf7dfc.js",
+    "static/js/787.bc7c4b98.chunk.js": "/WebAssembly-Web/static/js/787.bc7c4b98.chunk.js",
+    "static/media/webessembly_example_bg.wasm": "/WebAssembly-Web/static/media/webessembly_example_bg.f777cdda3835f85fa4fe.wasm",
+    "static/media/logo.svg": "/WebAssembly-Web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/WebAssembly-Web/index.html",
+    "main.2ecadf32.css.map": "/WebAssembly-Web/static/css/main.2ecadf32.css.map",
+    "main.02cf7dfc.js.map": "/WebAssembly-Web/static/js/main.02cf7dfc.js.map",
+    "787.bc7c4b98.chunk.js.map": "/WebAssembly-Web/static/js/787.bc7c4b98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ecadf32.css",
-    "static/js/main.958e27f8.js"
+    "static/js/main.02cf7dfc.js"
   ]
 }
